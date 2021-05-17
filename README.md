@@ -18,5 +18,5 @@
 This project is organised in four different parts :
 * ABE Encryption
 * [Peer 2 Peer](https://github.com/jean-christopheSANCHEZ/p2p.git)
-* Proxy
+* [Proxy](https://github.com/peafonso/PIR-Facebook/tree/main/Proxy)
 * [Steganography](https://github.com/peafonso/PIR-Facebook/tree/main/Steganography)
