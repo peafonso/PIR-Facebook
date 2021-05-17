@@ -1,0 +1,14 @@
+{
+  "manifest_version": 2,
+  "name": "Steganography Facebook",
+  "description": "PIR Facebook vie privée",
+  "version": "1.0.5435645",
+  "permissions": [
+                "http://*/*",
+            	"https://*/*"
+  ],
+  "browser_action": {
+    "default_icon": "fb.png",
+    "default_popup": "index.html"
+  }
+}
